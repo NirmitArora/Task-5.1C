@@ -1,0 +1,70 @@
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.text {
+  font-weight: bolder;
+  text-align: center;
+  position: relative;
+  bottom: 80px;
+  font-size: large;
+}
+
+.head {
+  position: relative; 
+  left: 25%;
+  bottom: 20px;
+  width: 600px;
+  background-color: rgb(231, 224, 224);
+}
+
+.post-type {
+  position: relative; 
+  left: 25%;
+  bottom: 20px;
+  width: 600px;
+}
+
+.art {
+  position: relative;
+  left: 30px;
+}
+
+.que {
+  position: relative;
+  left: 10px;
+}
+
+.box {
+  position: relative;
+  left: 25%;
+  bottom: 20px;
+}
+
+.text-desc {
+  position: relative; 
+  left: 25%;
+  bottom: 22px;
+  margin-bottom: 20px;
+}
+
+.tag {
+  position: relative;
+  bottom: 43px;
+  left: 380px;
+}
+
+.btn {
+  position: relative;
+  left: 310px;
+}
+
+.desc-class {
+  position: relative; 
+  left: 25%;
+  bottom: 30px;
+  width: 600px;
+}
